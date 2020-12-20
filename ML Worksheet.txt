@@ -1,1 +1,31 @@
+1. B
+2. D
+3. A
+4. C
+5. B
+6. A
+7. B
+8. C
+9. A,D
+10. A,C
+11. A,B,D
+12. R-squared, also known as the coefficient determination, defines the degree to which the variance in the dependent variable can be explained by the independent  
+    variable. R2 shows how well terms fit a curve or line.
+    Adjusted R2 also indicates how well terms fit a curve or line, but adjusts for the number of terms in a model. It measures the variation in the dependent variable, explained 
+    by only the features which are helpful in making predictions. 
+13. A cost function is a measure of how wrong the model is in terms of its ability to estimate the relationship between X and y. This is typically expressed as a difference or
+    distance between the predicted value and the actual value. The cost function can be estimated by iteratively running the model to compare estimated predictions against 
+    “ground truth” — the known values of y.
+14. The sum of squares total, denoted SST, is the squared differences between the observed dependent variable and its mean. You can think of this as the dispersion of the observed
+    variables around the mean – much like the variance in descriptive statistics.
+    
+    The sum of squares due to regression, or SSR. It is the sum of the differences between the predicted value and the mean of the dependent variable. Think of it as a measure 
+    that describes how well our line fits the data.
+    
+    The sum of squares error, or SSE. The error is the difference between the observed value and the predicted value.The smaller the error, the better the estimation power of  
+    the regression.
+15. The various metrics used to evaluate the results of the linear regression prediction are : Mean Squared Error(MSE) Root-Mean-Squared-Error(RMSE). Mean-Absolute-Error(MAE).
+
+
+
 
